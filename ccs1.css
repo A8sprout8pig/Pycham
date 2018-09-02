@@ -1,0 +1,41 @@
+@charset  "utf-8";
+
+
+
+
+hr{
+    border: solid 1px red;
+}
+
+body{
+    background-image: url("QQ3.png");
+}
+ff
+
+
+
+
+p{
+    margin-left: 20px;
+}
+
+*{
+    color: crimson;
+
+}
+
+#box{
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #07f;
+    margin: 15px;
+
+
+}
+
+ol>li{
+
+    color:  green;
+
+}

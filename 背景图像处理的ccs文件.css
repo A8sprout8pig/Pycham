@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+#div1{
+    background-color: #b4b4b4;
+    background-image: url("QQ3.png"),url("QL.png");
+    background-repeat: no-repeat;
+    background-position: bottom 20px right 20px ,top 0px left 0px;
+    background-origin: content-box;
+    opacity: 0.5;
+    color: rebeccapurple;
+    /* font: all 20px; */
+
+    font-style: normal;
+    font-weight: bold;
+}
+#div2{
+
+    background-color: #b4b4b4;
+    background-image: url("QQ3.png"),url("QL.png");
+    background-clip: content-box;
+    color: green;
+}
+
+#div3{
+    color: darkgreen;
+    background-color: #b4b4b4;
+    background-image: url("QQ3.png"),url("QL.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
